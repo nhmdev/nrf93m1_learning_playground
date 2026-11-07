@@ -4,3 +4,6 @@
 
 # build
 /build*/
+
+#other
+.DS_Store
